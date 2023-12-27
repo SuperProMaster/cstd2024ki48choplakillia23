@@ -8,6 +8,3 @@ The goal of this task is to do a game according to a variant using hardware and 
 | Number | Student | Task | Config format |
 | --- | --- | --- | ---|
 | 23 | Choplak Illia | Chess | JSON |
-### Project
-#### Software
-Programming language: C#
